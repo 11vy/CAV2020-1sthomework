@@ -19,5 +19,5 @@
 ![image](https://github.com/11vy/CAV2020-1sthomework/blob/main/%E5%BC%A0%E8%97%A4632004141516/3.png)
 # 三、安装ros1
 打开终端输入此代码自动安装ros1
-
+```
 wget http://fishros.com/install -O fishros && . fishros
