@@ -2,6 +2,8 @@
 # 一、环境配置
 虚拟机VM+Ubuntu18.04+melodic
 # 二、安装步骤
-1. 下载VMware
-2. 下载ubuntu20.04镜像
-3. 
+## 下载VMware
+1. 打开下载好的VMware，创建新的虚拟机。
+2. 在虚拟机中
+## 下载ubuntu20.04镜像
+##
